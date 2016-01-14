@@ -6,3 +6,4 @@ Git is free software.
 BBBBBBBBBBBBBBB
 add a line.
 CCCCCCCCCCCCCCC
+DDDDDDDDDDDDDDD
